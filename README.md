@@ -17,6 +17,7 @@ This project includes two apps:
 ![lambda](/art/lambda.png)
   
 - **more-java8-app**: Let's you try the [rest](https://developer.android.com/intl/es/preview/j8-jack.html) of the Java 8 features supported only by Android N
-  only compatible with devices/emulators API 24+ (N)
+  
+  Only compatible with devices/emulators API 24+ (N)
 
 ![more](/art/more.png)
