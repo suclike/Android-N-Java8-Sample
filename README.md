@@ -21,3 +21,16 @@ This project includes two apps:
   Only compatible with devices/emulators API 24+ (N)
 
 ![more](/art/more.png)
+
+## Create N emulator
+
+Just in case you can't find the new Android N emulator:
+
+1. Open AVD Manager.
+2. Press the Create new virtual device button
+3. Select any definition you like and press next
+4. Here comes the trick. Notice the x86 tab selected.
+By default the Recommended tab is selected and probably you won't find the N emulator there.
+
+![trick](/art/n-emulator.png)
+
