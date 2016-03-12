@@ -6,7 +6,7 @@ This project includes two sample hello world apps to play with java8 features ou
 So the only steps you need to follow are:
 
 1. [Install Java8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) on your machine. Check if you already have it at */Library/Java/JavaVirtualMachines* for OS X.
-2. [Download](http://tools.android.com/download/studio/canary/latest) Android Studio Preview 1.2 (introduces the new **jack** compiler and toolchain)
+2. [Download](http://tools.android.com/download/studio/canary/latest) Android Studio Preview 2.1 (introduces the new **jack** compiler and toolchain)
 3. Point to Java 8 in Project structure (`⌘`+`;`)
 ![as-prefs](/images/project.jpg)
 4. Download this project and run it.
