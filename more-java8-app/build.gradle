@@ -1,0 +1,26 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 'android-N'
+    buildToolsVersion "24.0.0 rc1"
+
+    defaultConfig {
+        applicationId "com.example.java8"
+        minSdkVersion 'N'
+        targetSdkVersion 'N'
+        versionCode 1
+        versionName "1.0"
+
+        jackOptions {
+            enabled true
+        }
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_8
+            targetCompatibility JavaVersion.VERSION_1_8
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:24.0.0-alpha1'
+}
